@@ -1,4 +1,4 @@
-# Medico Construction & Design Ltd.
+# The Medico Group
 
 > Design-build general contractor for healthcare clinics in British Columbia and Alberta: planning, design, permits and construction of medical, dental, optometry, pharmacy, physiotherapy, chiropractic, naturopathy, med spa and veterinary clinics, under one contract. 100+ healthcare projects across BC. 15+ years. Licensed and insured.
 
@@ -7,7 +7,7 @@
 - Victoria office: #185 - 911 Yates St, Victoria, BC V8V 4Y9. Phone 778-403-4999
 - Edmonton office: #38 314-222 Baseline Road, Sherwood Park, AB T8H 1S8. Phone 587-855-4455
 - Calgary office: #301 14 St NW #309, Calgary, AB T2N 1Z7. Phone 825-425-0044
-- Free consultation. $0 design fees when you select the in-house design-build service.
+- Free consultation.
 - Process: Planning, Design, Construction, Completion, Post completion.
 - Designs to CSA Z8000, Canadian Health Care Facilities: Planning, design and construction.
 
@@ -21,7 +21,10 @@
 - [CSA Z8000 standard](https://www.medicoconstruction.com/csa-z8000-standard/)
 - [Telehealth and equipment integration](https://www.medicoconstruction.com/telehealth-equipment-integration/)
 
-## Completed projects (51)
+## Completed projects (54)
+- [Freya Medical, Surrey, BC](https://www.medicoconstruction.com/portfolio-2/freya-medical-surrey-bc/): Medical Clinic; Surrey, BC; 1,725 sq ft. A 1,725 sq ft women's health clinic in Surrey City Centre, designed and built turnkey by The Medico Group.
+- [Vida Medical Clinic, Vancouver, BC](https://www.medicoconstruction.com/portfolio-2/vida-medical-clinic-vancouver-bc/): Medical Clinic; Vancouver, BC; 1,683 sq ft. A 1,683 sq ft retail unit on East Broadway, Vancouver, turned into a seven-exam-room family medical clinic.
+- [Goshen Pharmacy & Medical Clinic, Port Moody, BC](https://www.medicoconstruction.com/portfolio-2/goshen-pharmacy-medical-clinic-port-moody-bc/): Pharmacy, Medical Clinic; Port Moody, BC; 2,120 sq ft. A full-service pharmacy and a medical clinic in one 2,120 sq ft street-front unit in Port Moody.
 - [Humble Compounding Pharmacy, Langley, BC](https://www.medicoconstruction.com/portfolio-2/humble-compounding-pharmacy-langley-bc/): Pharmacy; Langley, BC; 1,600 sq ft. A 1,600 sqft compounding pharmacy in Langley with modern design and earth tones throughout.
 - [Woodland Veterinary Clinic, Vancouver, BC](https://www.medicoconstruction.com/portfolio-2/woodland-veterinary-clinic-vancouver-bc/): Veterinary; Vancouver, BC; 2,200 sq ft. A 2,200 sqft contemporary healthcare space in Vancouver built for comfort, efficiency, and compassionate care.
 - [Shangyee Wellness, Vancouver, BC](https://www.medicoconstruction.com/portfolio-2/shangyee-wellness-vancouver-bc/): Med Spa; Vancouver, BC. Shangyee Wellness is a holistic medical clinic crafted to blend warmth and clinical precision through marble finishes, walnut cabinetry, and a calming, spa-inspired atmosphere.
@@ -78,12 +81,12 @@
 - [Chiro](https://www.medicoconstruction.com/portfolio-category/chiro/): 1 projects
 - [Dental Clinic](https://www.medicoconstruction.com/portfolio-category/dental-clinic/): 3 projects
 - [Med Spa](https://www.medicoconstruction.com/portfolio-category/med-spa/): 1 projects
-- [Medical Clinic](https://www.medicoconstruction.com/portfolio-category/medical-clinic/): 18 projects
+- [Medical Clinic](https://www.medicoconstruction.com/portfolio-category/medical-clinic/): 21 projects
 - [Medical Lab](https://www.medicoconstruction.com/portfolio-category/medical-lab/): 1 projects
 - [Naturopathy](https://www.medicoconstruction.com/portfolio-category/naturopathy/): 1 projects
 - [Optometry Clinic](https://www.medicoconstruction.com/portfolio-category/optometry-clinic/): 16 projects
 - [Pediatrics](https://www.medicoconstruction.com/portfolio-category/pediatrics/): 1 projects
-- [Pharmacy](https://www.medicoconstruction.com/portfolio-category/pharmacy/): 8 projects
+- [Pharmacy](https://www.medicoconstruction.com/portfolio-category/pharmacy/): 9 projects
 - [Physio](https://www.medicoconstruction.com/portfolio-category/physio/): 4 projects
 - [Veterinary](https://www.medicoconstruction.com/portfolio-category/veterinary/): 6 projects
 
