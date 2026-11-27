@@ -1,19 +1,19 @@
 ---
-title: Pharmacy Clean Room Construction in Canada | Medico
+title: Pharmacy Clean Room and Compounding Lab Construction
 slug: /pharmacy-clean-rooms/
-description: Pharmacy clean rooms, sterile compounding suites, hazardous drug rooms and compounding labs for hospitals and private pharmacies in BC and Alberta.
+description: Pharmacy clean rooms and compounding labs built to NAPRA, with CSA Z8000 for hospital work: sterile suites, hazardous rooms, IV rooms and labs.
 primary_keyword: pharmacy clean room construction
-secondary_keywords: sterile compounding suite | compounding lab | hazardous drug compounding room | NAPRA upgrade | IV room
+secondary_keywords: CSA Z8000 pharmacy | Z8000 clean room | compounding lab construction | sterile compounding suite | compounding lab | hazardous drug compounding room | NAPRA upgrade | IV room
 author: Dal Riarh (President and CEO, The Medico Group)
 published: draft, not live
 page_type: section hub
 ---
 
-# Pharmacy clean room construction for hospitals and compounding pharmacies
+# Pharmacy clean rooms and compounding labs, built to NAPRA and, for hospitals, CSA Z8000
 
 *By Dal Riarh, President and CEO, The Medico Group. Last updated 27 November 2026.*
 
-We build pharmacy clean rooms, sterile compounding suites, hazardous drug compounding rooms and non-sterile compounding labs in BC and Alberta. We work for two kinds of owners: hospital and health authority pharmacy teams upgrading IV rooms and compounding suites to NAPRA, and owners of private compounding pharmacies and central compounding facilities. This page explains what we build, the rules that shape each room, and where to start.
+We build pharmacy clean rooms, sterile compounding suites, hazardous drug compounding rooms and non-sterile compounding labs in BC and Alberta. This section is for two kinds of owners: hospital and health authority pharmacy teams upgrading IV rooms and compounding suites to NAPRA, and owners of private compounding pharmacies and central compounding facilities. Health authority design requirements call up CSA Z8000 and its HVAC and infection control companions, Z317.2 and Z317.13, on top of the NAPRA compounding standards; our [CSA Z8000 pharmacy page](/pharmacy-clean-rooms/csa-z8000-pharmacy/) explains how they fit. This page explains what we build, the rules that shape each room, and where to start.
 
 [Book a clean room walk-through](/contact/)
 

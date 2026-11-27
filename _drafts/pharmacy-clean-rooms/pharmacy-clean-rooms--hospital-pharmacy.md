@@ -1,9 +1,9 @@
 ---
-title: Hospital Pharmacy NAPRA Upgrades and IV Rooms | Medico
+title: Z8000 Hospital Pharmacy Clean Rooms and NAPRA Upgrades
 slug: /pharmacy-clean-rooms/hospital-pharmacy/
 description: How hospital pharmacy NAPRA upgrades, IV rooms and sterile compounding suites are scoped, bought and phased so the pharmacy stays open.
 primary_keyword: hospital pharmacy NAPRA upgrade
-secondary_keywords: sterile compounding suite | IV room upgrade | CIVA upgrade | hazardous drug clean room | pharmacy HVAC upgrade
+secondary_keywords: CSA Z8000 hospital pharmacy | sterile compounding suite | IV room upgrade | CIVA upgrade | hazardous drug clean room | pharmacy HVAC upgrade
 author: Dal Riarh (President and CEO, The Medico Group)
 published: draft, not live
 page_type: service page
@@ -13,7 +13,7 @@ page_type: service page
 
 *By Dal Riarh, President and CEO, The Medico Group. Last updated 27 November 2026.*
 
-A hospital pharmacy NAPRA upgrade rebuilds the IV room or sterile compounding suite so its rooms, pressures, air changes and exhaust meet the NAPRA model standards, usually while the pharmacy keeps compounding. Health authorities in BC and Alberta buy this work through prequalification and then a tender or a construction management RFP. This page explains what the work includes, how it is bought, and how we approach it.
+A hospital pharmacy NAPRA upgrade rebuilds the IV room or sterile compounding suite so its rooms, pressures, air changes and exhaust meet the NAPRA model standards, usually while the pharmacy keeps compounding. In BC, health authorities buy this work through prequalification and then a tender or a construction management RFP. Health authority design requirements call up CSA Z8000, Z317.2 and Z317.13, and NAPRA applies through the provincial college ([CSA Z8000 pharmacy](/pharmacy-clean-rooms/csa-z8000-pharmacy/)). This page explains what the work includes, how it is bought, and how we approach it.
 
 [Book a clean room walk-through](/contact/)
 
